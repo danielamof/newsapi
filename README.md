@@ -2,7 +2,7 @@
 
 A Next.js web application that displays the latest news from any category using the NewsAPI service. Default category is set to technology.
 
-![News Application Screenshot](screenshot.png)
+![News Application Screenshot](https://github.com/danielamof/newsapi/blob/main/screenshot.png?raw=true)
 
 ## Features
 
